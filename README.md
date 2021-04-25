@@ -3,8 +3,8 @@
 ## Selected Topic 
 Heart attack/failure prediction 
 
-## Description of the source of data 
-We will be using [Framingham Data](https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression) and [Heart Attack Analysis ](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) to predict the outcomes 
+## Project Utilizations
+For this project we will be exploring two datasets ,the Framingham Heart study which is one of the longest-running and most regarded heart disease studies, most accredited to its earliest findings of the correlation between high blood pressure, smoking, high cholesterol to heart disease. Supported by the National Heart Lung and Blood Institute, the study follows logistic regression to predict outcome and calculate the probability of success. Who is more susceptible to heart disease? Which factors are attributed? And we will also be using Heart Failure prediction dataset which explores mortality by heart failure through machine learning.
 
-## Introduction 
-Heart disease has the highest mortality according to CDC data on death and mortality. Heart disease is a cluster of heart conditions which affect the flow of the blood to the heart leading to a heart attack or heart failure, and the key risk factors for heart disease include high blood pressure, smoking and high cholesterol. As the leading cause of death globally and in the United States, it is important to understand the most prevalent causes and preventative measures that one can take to avoid succumbing to heart disease.
+## Outcome
+The goal of our machine learning model is to predict whether or not an individual will likely develop coronary heart disease, based on a multitude of factors including exercising, smoking, age, gender, education level, etc.
