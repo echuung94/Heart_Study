@@ -23,7 +23,7 @@ Machine Learning Model (△ Role: Asa)
 
 Database Integration (◯ Role: Nguyen)
 - Sample data that mimics the expected final database structure or schema
-✓- Draft machine learning module is connected to the provisional database
+- Draft machine learning module is connected to the provisional database
 
 ## Communication Plan
 We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
