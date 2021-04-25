@@ -24,3 +24,6 @@ Machine Learning Model (△ Role: Asa)
 Database Integration (◯ Role: Nguyen)
 - Takes in data from the provisional database
 - Outputs label for input data
+
+## Communication Plan
+We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
