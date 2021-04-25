@@ -11,6 +11,7 @@ Heart disease has the highest mortality according to CDC data on death and morta
 
 ## Assigned Roles 
 Presentation / (X Role: Abigail)</br>
+- Determine the technology tools that will be used for the project
 
 GitHub Repository (❑ Role: Eunji)
 - Create individual brances 
