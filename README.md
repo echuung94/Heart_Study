@@ -14,7 +14,7 @@ Presentation ([X Role: Abigail](https://github.com/echuung94/Heart_Study/tree/am
 - Determine the technology tools that will be used for the project
 
 GitHub Repository ([❑ Role: Eunji](https://github.com/echuung94/Heart_Study/tree/echung))
-- Create individual brances 
+- Create individual branches 
 - Description of the communication protocols</br>
 
 Machine Learning Model ([△ Role: Asa](https://github.com/echuung94/Heart_Study/tree/aholley))
