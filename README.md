@@ -36,7 +36,7 @@ We plan on communicating using Slack and utilizing our class times on Tuesdays a
 
 ## Database
 We cleaned our data with Python Pandas here: [Cleaned_data.ipynb]() and connected it to our Postgres database with SQLAlchemy. Below is a picture of the ERD we used for both datasets: 
-IMG
+![ERD](https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG)
 
 ## Dashboard
 
