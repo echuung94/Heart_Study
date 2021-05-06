@@ -35,8 +35,8 @@ We plan on communicating using Slack and utilizing our class times on Tuesdays a
 ### Model Choice
 
 ## Database
-We cleaned our data with Python Pandas here: [Cleaned_data.ipynb]() and connected it to our Postgres database with SQLAlchemy. Below is a picture of the ERD we used for both datasets:</br>
-![ERD](https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG)
+We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="350"></p>
 
 ## Dashboard
 
