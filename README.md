@@ -12,7 +12,13 @@ Heart disease has the highest mortality according to CDC data on death and morta
 We will be using [Framingham Data](https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression) and [Heart Attack Analysis ](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) to predict the outcomes 
 
 ### Data Exploration
-
+The data was reviewed and processed using pandas in Google Colab. To make our data usable for the model, we coverted the csv file to a dataframe, dropped the null values in the columns and rows, and then coverted all our data to integers. </br>
+Our plan was to join the two datasets using an SQL database, however, we were unable to join due to the datasets not having a unique identifier to join them on. </br>
+The two datasets were coverted to a PySpark DataFrame in order to export the file into Postgres SQL and then read into Google Colab using AWS S3. Having converted all the features into a usable numeric data in our primary dataset, we were able to use all the available features for the model. </br>
+The testing and training data was split on the standard 80/20 ratio. </br>
+In order to answer our question of whether or not an individual is likely to get coronary heart disease based on various factors, we decided to use the Logistic Regression model. This model analyzes the data and mathematically determines its probability of belonging to a class. </br>
+With our dataset, we believed that we had an extensive list of factors that when used in a logistic regression, the model could predict CHD (coronary heart disease) with a generally high degree of accuracy. </br>
+The limitation is the assumption of linearity between the dependent variable (an individual getting CHD) and the independent variables. In reality, the human body and the various factors listed may not be linear. </br>
 
 ### Draft Google Slides
 [Google Slides](https://docs.google.com/presentation/d/1onFSrrHWJHMssUqCB5XmFOtxarz3dNbw-AfdVClvO5o/edit?usp=sharing)
