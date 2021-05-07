@@ -26,9 +26,7 @@ We plan on communicating using Slack and utilizing our class times on Tuesdays a
 
 ## Machine Learning Model
 
-### Preliminary Data Preprocessing
-
-### Preliminary Feature Engineering, Selection, Decision-Making Process
+### Preliminary Data Preprocessing, Feature Engineering, Selection, Decision-Making Process
 
 ### Splitting Data
 
