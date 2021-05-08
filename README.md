@@ -42,3 +42,4 @@ We will be using Tableau to create our interactive dashboard. It will be hostedo
 ### Tools
 Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
 ### Interactive Elements
+We intend on creating filters on the dashboard so that users could filter through various features to see which factors contribute to heart disease. 
