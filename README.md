@@ -20,8 +20,8 @@ In order to answer our question of whether or not an individual is likely to get
 With our dataset, we believed that we had an extensive list of factors that when used in a logistic regression, the model could predict CHD (coronary heart disease) with a generally high degree of accuracy. </br>
 The limitation is the assumption of linearity between the dependent variable (an individual getting CHD) and the independent variables. In reality, the human body and the various factors listed may not be linear. </br>
 
-### Draft Google Slides
-[Draft Dashboard Slides](https://docs.google.com/presentation/d/1onFSrrHWJHMssUqCB5XmFOtxarz3dNbw-AfdVClvO5o/edit?usp=sharing)
+### Draft Presentation/Dashboard Slides
+[Google Slides](https://docs.google.com/presentation/d/1onFSrrHWJHMssUqCB5XmFOtxarz3dNbw-AfdVClvO5o/edit?usp=sharing)
 
 ### Communication Plan
 We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
