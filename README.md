@@ -32,8 +32,11 @@ We plan on communicating using Slack and utilizing our class times on Tuesdays a
 
 ## Machine Learning Model
 
-### Preliminary Data Preprocessing, Feature Engineering, Selection, Decision-Making Process
-
+### Analysis
+The image below shows a mock chart of the features that attributed most to getting heart disease. </br>
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/age.png" height="350"></p></br>
+The chart below displays the average BMI based on a specific age group.</br>
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/age_avgbmi.png" height="350"></p>
 
 ## Database
 We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
