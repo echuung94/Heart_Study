@@ -34,9 +34,6 @@ We plan on communicating using Slack and utilizing our class times on Tuesdays a
 
 ### Preliminary Data Preprocessing, Feature Engineering, Selection, Decision-Making Process
 
-### Splitting Data
-
-### Model Choice
 
 ## Database
 We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
@@ -45,5 +42,5 @@ We cleaned our data with Python Pandas and connected it to our Postgres database
 ## Dashboard
 
 ### Tools
-
+Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
 ### Interactive Elements
