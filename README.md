@@ -23,14 +23,8 @@ The limitation is the assumption of linearity between the dependent variable (an
 ### Draft Google Slides
 [Google Slides](https://docs.google.com/presentation/d/1onFSrrHWJHMssUqCB5XmFOtxarz3dNbw-AfdVClvO5o/edit?usp=sharing)
 
-## GitHub
-
 ### Communication Plan
 We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
-
-### Outline
-
-## Machine Learning Model
 
 ### Analysis
 The image below shows a mock chart of the features that attributed most to getting heart disease. </br>
@@ -43,6 +37,7 @@ We cleaned our data with Python Pandas and connected it to our Postgres database
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="350"></p>
 
 ## Dashboard
+We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public. 
 
 ### Tools
 Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
