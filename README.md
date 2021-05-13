@@ -32,6 +32,10 @@ The image below shows a mock chart of the features that attributed most to getti
 The chart below displays the average BMI based on a specific age group.</br>
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/age_avgbmi.png" height="350"></p>
 
+### Results
+
+### Recommendations and Lessons Learned
+
 ## Database
 We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="350"></p>
@@ -40,6 +44,7 @@ We cleaned our data with Python Pandas and connected it to our Postgres database
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public. 
 
 ### Tools
-Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
+We cleaned and analyzed the data in Google Colab. We also used Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
+
 ### Interactive Elements
 We intend on creating filters on the dashboard so that users could filter through various features to see which factors contribute to heart disease. 
