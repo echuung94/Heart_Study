@@ -44,7 +44,7 @@ We cleaned our data with Python Pandas and connected it to our Postgres database
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public. 
 
 ### Tools
-We cleaned and analyzed the data in Google Colab. We also used Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
+Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
 
 ### Interactive Elements
 We intend on creating filters on the dashboard so that users could filter through various features to see which factors contribute to heart disease. 
