@@ -39,7 +39,7 @@ The limitation is the assumption of linearity between the dependent variable (an
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
 <b>Accuracy</b> - 86% for testing data </br>
 <b>Precision</b> - .85 weighted average</br>
-<b>Sensitivity</b> - .13 for correct positive diagnoses>/br></br>
+<b>Sensitivity</b> - .13 for correct positive diagnoses</br></br>
 
 Our model resulted in an overall good accuracy score and is in line with what you would expect for a logical regression model. Our overall precision score was high and can be thought of being reliable when we do get a positive diagnosis. However, the model resulted in a low sensitivity rate for diagnosing those with heart disease, meaning that our model was not good at correctly diagnosing the individuals. 
 
@@ -54,7 +54,8 @@ We intend on creating filters on the dashboard so that users could filter throug
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
 
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/dashboard.PNG" height="350"></p>
-
+The age distribution charts details at which age is more susceptible to developing heart disease and heart attack. If one has lived sedentary lifestyle without maintaining a healthy workout routine, they are at a higher risk of developing heart disease/attack at a younger age. The two charts show that there significant spike at the age of 40 for both men and women. The average age an individual is more susceptible to developing heart disease is at 55. </br>
+The chart below (Heart disease vs Variables) point out the likelihood that an individual may develop heart disease depending on the factors listed. 
 
 ### Communication Plan
 We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
