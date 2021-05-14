@@ -45,6 +45,8 @@ The chart below displays the average BMI based on a specific age group.</br>
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/age_avgbmi.png" height="350"></p>
 
 ### Results
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
+<b>Accuracy</b>
 
 ### Recommendations and Lessons Learned
 
