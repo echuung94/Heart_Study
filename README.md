@@ -53,7 +53,8 @@ We intend on creating filters on the dashboard so that users could filter throug
 ## Dashboard
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
 
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/dashboard.PNG" height="350"></p>
+
 
 ### Communication Plan
 We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
