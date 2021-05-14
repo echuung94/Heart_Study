@@ -11,6 +11,18 @@ Heart disease has the highest mortality according to CDC data on death and morta
 ### Source of Data
 We will be using [Framingham Data](https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression) and [Heart Attack Analysis ](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) to predict the outcomes 
 
+## Database
+We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="350"></p>
+
+### Technology 
+- Logistic Regression Model 
+- Python
+- Postgres SQL Database
+- Amazon AWS RDS and S3
+- Google Colab 
+
+
 ### Data Exploration
 The data was reviewed and processed using pandas in Google Colab. To make our data usable for the model, we coverted the csv file to a dataframe, dropped the null values in the columns and rows, and then coverted all our data to integers. </br>
 Our plan was to join the two datasets using an SQL database, however, we were unable to join due to the datasets not having a unique identifier to join them on. </br>
@@ -36,15 +48,9 @@ The chart below displays the average BMI based on a specific age group.</br>
 
 ### Recommendations and Lessons Learned
 
-## Database
-We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="350"></p>
-
 ## Dashboard
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
 
-### Tools
-Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
 
 ### Interactive Elements
 We intend on creating filters on the dashboard so that users could filter through various features to see which factors contribute to heart disease. 
