@@ -46,12 +46,20 @@ The chart below displays the average BMI based on a specific age group.</br>
 
 ### Results
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
-<b>Accuracy</b>
+<b>Accuracy</b> - 86% for testing data </br>
+<b>Precision</b> - .85 weighted average</br>
+<b>Sensitivity</b> - .13 for correct positive diagnoses>/br></br>
+
+Our model resulted in an overall good accuracy score and is in line with what you would expect for a logical regression model. Our overall precision score was high and can be thought of being reliable when we do get a positive diagnosis. However, the model resulted in a low sensitivity rate for diagnosing those with heart disease, meaning that our model was not good at correctly diagnosing the individuals. 
 
 ### Recommendations and Lessons Learned
+One of the main issues we ran into with our data was the inability to locate a unique identifier within the datasets, this prevented us from expanding on the factors we incorporated into our model and possibly create a more sensitive model. We do not recommend that this model be used in a clinical or a real world setting. Althought it is relatively accurate, this model shows that it does not have the sensitivity needed for a serious diagnosis.</br>
+What we would do differently would be to work with a dataset that has unique identifiers and test the data with different models to better predict the individuals that are at high risk for heart disease. 
 
 ## Dashboard
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
+
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
 
 
 ### Interactive Elements
