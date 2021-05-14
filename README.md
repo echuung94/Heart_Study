@@ -35,15 +35,6 @@ The limitation is the assumption of linearity between the dependent variable (an
 ### Draft Presentation/Dashboard Slides
 [Google Slides](https://docs.google.com/presentation/d/1onFSrrHWJHMssUqCB5XmFOtxarz3dNbw-AfdVClvO5o/edit?usp=sharing)
 
-### Communication Plan
-We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
-
-### Analysis
-The image below shows a mock chart of the features that attributed most to getting heart disease. </br>
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/age.png" height="350"></p></br>
-The chart below displays the average BMI based on a specific age group.</br>
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/age_avgbmi.png" height="350"></p>
-
 ### Results
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
 <b>Accuracy</b> - 86% for testing data </br>
@@ -56,11 +47,13 @@ Our model resulted in an overall good accuracy score and is in line with what yo
 One of the main issues we ran into with our data was the inability to locate a unique identifier within the datasets, this prevented us from expanding on the factors we incorporated into our model and possibly create a more sensitive model. We do not recommend that this model be used in a clinical or a real world setting. Althought it is relatively accurate, this model shows that it does not have the sensitivity needed for a serious diagnosis.</br>
 What we would do differently would be to work with a dataset that has unique identifiers and test the data with different models to better predict the individuals that are at high risk for heart disease. 
 
+### Interactive Elements
+We intend on creating filters on the dashboard so that users could filter through various features to see which factors contribute to heart disease. 
+
 ## Dashboard
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
 
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
 
-
-### Interactive Elements
-We intend on creating filters on the dashboard so that users could filter through various features to see which factors contribute to heart disease. 
+### Communication Plan
+We plan on communicating using Slack and utilizing our class times on Tuesdays and Thursdays. We have also exchanged phone numbers in case of any emergencies.
