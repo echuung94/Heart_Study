@@ -41,7 +41,7 @@ We cleaned our data with Python Pandas and connected it to our Postgres database
 <p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="350"></p>
 
 ## Dashboard
-We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes)
+We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
 
 ### Tools
 Our group decided to use Postgres and Amazon RDS for database storage and integrate Tableau to display the data. 
