@@ -36,7 +36,7 @@ The limitation is the assumption of linearity between the dependent variable (an
 [Google Slides](https://docs.google.com/presentation/d/1onFSrrHWJHMssUqCB5XmFOtxarz3dNbw-AfdVClvO5o/edit?usp=sharing)
 
 ### Results
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" height="350"></p>
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/results.png" width="600" height="600"></p>
 <b>Accuracy</b> - 86% for testing data </br>
 <b>Precision</b> - .85 weighted average</br>
 <b>Sensitivity</b> - .13 for correct positive diagnoses</br></br>
