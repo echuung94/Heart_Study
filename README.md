@@ -53,7 +53,7 @@ We intend on creating filters on the dashboard so that users could filter throug
 ## Dashboard
 We will be using Tableau to create our interactive dashboard. It will be hostedon Tableau public: [here](https://public.tableau.com/profile/abigail.mwaura#!/vizhome/HeartStudy/HeartStudy?publish=yes).
 
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/dashboard.PNG" width="750" height="600""></p>
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/main/Resources/dashboard.PNG" width="850" height="600""></p>
 The age distribution charts details at which age is more susceptible to developing heart disease and heart attack. If one has lived sedentary lifestyle without maintaining a healthy workout routine, they are at a higher risk of developing heart disease/attack at a younger age. The two charts show that there significant spike at the age of 40 for both men and women. The average age an individual is more susceptible to developing heart disease is at 55. </br>
 The chart below (Heart disease vs Variables) point out the likelihood that an individual may develop heart disease depending on the factors listed. 
 
