@@ -13,7 +13,7 @@ We will be using [Framingham Data](https://www.kaggle.com/dileep070/heart-diseas
 
 ## Database
 We cleaned our data with Python Pandas and connected it to our Postgres database with Amazon AWS S3. Below is a picture of the ERD we used for both datasets: 
-<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" height="400"></p>
+<p align="center"><img src="https://github.com/echuung94/Heart_Study/blob/ncao/Resources/ERD.PNG" width="400" height="600"></p>
 
 ### Technology 
 - Logistic Regression Model 
